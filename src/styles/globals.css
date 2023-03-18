@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
 
 * {
   box-sizing: border-box;
@@ -10,4 +11,7 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  background-color: #0F1020;
+  /* background-image: url(https://get.pxhere.com/photo/wood-texture-floor-brown-tile-grunge-paper-page-material-hardwood-beige-decorative-backdrop-aged-flooring-plywood-wood-flooring-scrapbook-textured-paper-old-paper-background-paper-texture-laminate-flooring-paper-background-1161621.jpg);
+  background-size: 500px; */
 }
